@@ -1,0 +1,12 @@
+.btn-primary {
+    margin-top:10px;
+}
+
+.btn-sm.btn-primary {
+    margin-top: 0px;
+}
+
+ body {
+    background: rgb(0,30,36);
+    background: linear-gradient(270deg, rgba(0,30,36,1) 0%, rgba(9,64,121,1) 0%, rgba(0,255,239,1) 100%);
+} 
